@@ -1,0 +1,18 @@
+Appointment_ID,Patient_Name,Department,City,Age,Appointment_Date,Time,Fee,Payment_Status,Insurance,Rating
+A001,Meera Patel,Cardiology,Vadodara,45,2026-08-12,09:30,1200.0,Paid,True,4.8
+A018,Om Joshi,Cardiology,Surat,47,2026-08-20,10:00,1200.0,Paid,False,4.6
+A004,Aarav Desai,Cardiology,Vadodara,42,2026-08-13,12:30,1200.0,Paid,False,4.5
+A012,Kabir Khan,Cardiology,Surat,55,2026-08-17,12:00,1200.0,Paid,False,4.4
+A014,Dev Shah,Cardiology,Ahmedabad,43,2026-08-18,09:15,1200.0,Pending,False,4.0
+A008,Vivek Iyer,Cardiology,Ahmedabad,60,2026-08-15,11:30,1200.0,Cancelled,False,3.9
+A011,Anaya Singh,Dermatology,Ahmedabad,31,2026-08-16,10:30,900.0,Paid,True,4.8
+A003,Diya Mehta,Dermatology,Surat,29,2026-08-13,11:00,900.0,Paid,True,4.6
+A007,Neha Trivedi,Dermatology,Vadodara,41,2026-08-14,10:45,900.0,Paid,True,4.3
+A016,Yash Patel,Dermatology,Vadodara,26,2026-08-19,13:30,900.0,Cancelled,False,3.8
+A009,Kavya Nair,ENT,Surat,27,2026-08-15,13:00,800.0,Paid,True,4.9
+A013,Sara Modi,ENT,Vadodara,36,2026-08-17,15:15,800.0,Paid,True,4.7
+A017,Tara Mehta,ENT,Ahmedabad,39,2026-08-19,14:30,800.0,Paid,True,4.5
+A015,Riya Kapoor,Orthopedics,Surat,50,2026-08-18,11:45,1500.0,Paid,True,4.9
+A006,Arjun Rao,Orthopedics,Surat,52,2026-08-14,09:00,1500.0,Paid,False,4.7
+A002,Rohan Shah,Orthopedics,Ahmedabad,42,2026-08-12,10:15,1500.0,Pending,False,4.2
+A010,Rahul Verma,Orthopedics,Vadodara,48,2026-08-16,09:45,1500.0,Pending,False,4.1
